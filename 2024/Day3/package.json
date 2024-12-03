@@ -1,0 +1,7 @@
+{
+  "type" : "module",
+  "dependencies": {
+    "eslint": "^9.16.0",
+    "typescript-language-server": "^4.3.3"
+  }
+}
