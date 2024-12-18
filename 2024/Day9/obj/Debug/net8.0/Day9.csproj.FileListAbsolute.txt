@@ -1,0 +1,15 @@
+/home/martin/Documents/shenanigans/Advent-Of-Code/2024/Day9/bin/Debug/net8.0/Day9
+/home/martin/Documents/shenanigans/Advent-Of-Code/2024/Day9/bin/Debug/net8.0/Day9.deps.json
+/home/martin/Documents/shenanigans/Advent-Of-Code/2024/Day9/bin/Debug/net8.0/Day9.runtimeconfig.json
+/home/martin/Documents/shenanigans/Advent-Of-Code/2024/Day9/bin/Debug/net8.0/Day9.dll
+/home/martin/Documents/shenanigans/Advent-Of-Code/2024/Day9/bin/Debug/net8.0/Day9.pdb
+/home/martin/Documents/shenanigans/Advent-Of-Code/2024/Day9/obj/Debug/net8.0/Day9.GeneratedMSBuildEditorConfig.editorconfig
+/home/martin/Documents/shenanigans/Advent-Of-Code/2024/Day9/obj/Debug/net8.0/Day9.AssemblyInfoInputs.cache
+/home/martin/Documents/shenanigans/Advent-Of-Code/2024/Day9/obj/Debug/net8.0/Day9.AssemblyInfo.cs
+/home/martin/Documents/shenanigans/Advent-Of-Code/2024/Day9/obj/Debug/net8.0/Day9.csproj.CoreCompileInputs.cache
+/home/martin/Documents/shenanigans/Advent-Of-Code/2024/Day9/obj/Debug/net8.0/Day9.sourcelink.json
+/home/martin/Documents/shenanigans/Advent-Of-Code/2024/Day9/obj/Debug/net8.0/Day9.dll
+/home/martin/Documents/shenanigans/Advent-Of-Code/2024/Day9/obj/Debug/net8.0/refint/Day9.dll
+/home/martin/Documents/shenanigans/Advent-Of-Code/2024/Day9/obj/Debug/net8.0/Day9.pdb
+/home/martin/Documents/shenanigans/Advent-Of-Code/2024/Day9/obj/Debug/net8.0/Day9.genruntimeconfig.cache
+/home/martin/Documents/shenanigans/Advent-Of-Code/2024/Day9/obj/Debug/net8.0/ref/Day9.dll
