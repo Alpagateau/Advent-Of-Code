@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nNqbW0e1wTo=",
+  "success": true,
+  "projectFilePath": "/home/martin/Documents/shenanigans/Advent-Of-Code/2025/Day2/Day2.csproj",
+  "expectedPackageFiles": [
+    "/home/martin/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.9/microsoft.aspnetcore.app.ref.9.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}

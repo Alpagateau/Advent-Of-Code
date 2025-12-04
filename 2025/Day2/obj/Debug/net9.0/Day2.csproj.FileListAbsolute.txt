@@ -1,0 +1,15 @@
+/home/martin/Documents/shenanigans/Advent-Of-Code/2025/Day2/bin/Debug/net9.0/Day2
+/home/martin/Documents/shenanigans/Advent-Of-Code/2025/Day2/bin/Debug/net9.0/Day2.deps.json
+/home/martin/Documents/shenanigans/Advent-Of-Code/2025/Day2/bin/Debug/net9.0/Day2.runtimeconfig.json
+/home/martin/Documents/shenanigans/Advent-Of-Code/2025/Day2/bin/Debug/net9.0/Day2.dll
+/home/martin/Documents/shenanigans/Advent-Of-Code/2025/Day2/bin/Debug/net9.0/Day2.pdb
+/home/martin/Documents/shenanigans/Advent-Of-Code/2025/Day2/obj/Debug/net9.0/Day2.GeneratedMSBuildEditorConfig.editorconfig
+/home/martin/Documents/shenanigans/Advent-Of-Code/2025/Day2/obj/Debug/net9.0/Day2.AssemblyInfoInputs.cache
+/home/martin/Documents/shenanigans/Advent-Of-Code/2025/Day2/obj/Debug/net9.0/Day2.AssemblyInfo.cs
+/home/martin/Documents/shenanigans/Advent-Of-Code/2025/Day2/obj/Debug/net9.0/Day2.csproj.CoreCompileInputs.cache
+/home/martin/Documents/shenanigans/Advent-Of-Code/2025/Day2/obj/Debug/net9.0/Day2.sourcelink.json
+/home/martin/Documents/shenanigans/Advent-Of-Code/2025/Day2/obj/Debug/net9.0/Day2.dll
+/home/martin/Documents/shenanigans/Advent-Of-Code/2025/Day2/obj/Debug/net9.0/refint/Day2.dll
+/home/martin/Documents/shenanigans/Advent-Of-Code/2025/Day2/obj/Debug/net9.0/Day2.pdb
+/home/martin/Documents/shenanigans/Advent-Of-Code/2025/Day2/obj/Debug/net9.0/Day2.genruntimeconfig.cache
+/home/martin/Documents/shenanigans/Advent-Of-Code/2025/Day2/obj/Debug/net9.0/ref/Day2.dll

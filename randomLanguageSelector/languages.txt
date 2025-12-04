@@ -1,3 +1,5 @@
+LISP
+NIM
 ASM
 C 
 C++
